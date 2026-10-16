@@ -1,0 +1,7 @@
+{
+  "appId": "com.commi.dailytasks",
+  "appName": "مهامي اليومية",
+  "webDir": "www",
+  "backgroundColor": "#0a0614",
+  "android": { "allowMixedContent": false }
+}
